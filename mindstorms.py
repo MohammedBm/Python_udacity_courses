@@ -25,9 +25,7 @@ def draw_art():
         draw_square(brad)
         brad.right(10)
         
-    #for i in range (1,37) :
-        #draw_square(brad)
-        #brad.right(10)
+    
 
         
     #ceate circle
