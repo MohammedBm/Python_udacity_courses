@@ -1,7 +1,10 @@
 import webbrowser
 class Movie ():
+<<<<<<< HEAD
     VALID_RATINGS = ["G", "PG", "PG-13", "R"]
     
+=======
+>>>>>>> 2e22eae9ee457a994faccd80cc81355e274e4780
     def __init__ (self, movie_title, movie_storyline, poster_image, trailer_youtube):
         self.title = movie_title 
         self.storyline = movie_storyline

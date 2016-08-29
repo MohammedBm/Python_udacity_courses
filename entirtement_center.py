@@ -36,5 +36,10 @@ batman = media.Movie(" The Dark Knight",
 
 movies = [ toy_story, the_hobbit, nemo, godzila, last_summari, batman]
 fresh_tomatoes.open_movies_page(movies)
+<<<<<<< HEAD
 print(media.Movie.VALID_RATINGS)
+=======
+
+
+>>>>>>> 2e22eae9ee457a994faccd80cc81355e274e4780
 
